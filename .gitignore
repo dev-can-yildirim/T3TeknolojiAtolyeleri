@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+
+# User files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build folders
+[Dd]ebug/
+[Rr]elease/
+publish/
+
+# Environment and secrets
+.env
+.env.*
+
+# Logs
+*.log

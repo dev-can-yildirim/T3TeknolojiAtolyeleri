@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="T3TeknolojiAtolyeleri.Infrastructure/T3TeknolojiAtolyeleri.Infrastructure.csproj" />
+  <Project Path="T3TeknolojiAtolyeleriOgrenciYonetimSistemi.API/T3TeknolojiAtolyeleri.API.csproj" />
+  <Project Path="T3TeknolojiAtolyeleriOgrenciYonetimSistemi.Application/T3TeknolojiAtolyeleriApplication.csproj" />
+  <Project Path="T3TeknolojiAtolyeleriOgrenciYonetimSistemi.Domain/T3TeknolojiAtolyeleri.Domain.csproj" />
+  <Project Path="T3TeknolojiAtolyeleriOgrenciYonetimSistemi.Persistance/T3TeknolojiAtolyeleri.Persistance.csproj" />
+</Solution>
